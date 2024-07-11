@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "<path_to_conda>/envs/streamlit_v2/bin/python",
+    "python.analysis.extraPaths": [
+        "<path_to_conda>/envs/streamlit_v2/lib/python3.9/site-packages"
+    ]
+}
